@@ -1,0 +1,5 @@
+"0",""
+"0","choosebank(""refseqViruses"")"
+"0","res<-query(""Zika1"", ""AC=NC_012532"")"
+"0","secu<-getSequence(res$req[[1]])"
+"0","zikaTable <- table(secu)"

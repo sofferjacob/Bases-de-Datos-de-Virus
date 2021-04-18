@@ -1,0 +1,8 @@
+"0","test <- c(Zika = zikaTable, SARS = sarsTable, Covid19 = covid19Table, MERS = mersTable, Dengue = dengueTable, Infuenza = influenzaTable)"
+"0",""
+"0","barplot(test,"
+"0","  main = ""Comparación de Composición de Nuclueótidos"","
+"0","  xlab = ""Nucleótidos"","
+"0","  ylab = ""Cantidad"","
+"0","  col = ""blue"""
+"0",")"
